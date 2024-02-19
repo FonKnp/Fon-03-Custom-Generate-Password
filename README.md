@@ -13,6 +13,9 @@ N/A
 This is a website that will generate a password for you.
 When you click Generate Password button it will ask how many characters you want in your password. Do you want to include uppercase, lowercase, numbers, and special characters. And it will generate password for you.
 
+This is the link to this Password Generate Website:
+[Password Generator](https://fonknp.github.io/Fon-03-Custom-Generate-Password/)
+
 This is the screenshot from the website.
 ![GeneratePasswordScreenshot](/assets/images/GenerateScreenShot-01.png)
 ![HowmanyCharacters](/assets/images/HowManyCharacters.png)
