@@ -31,7 +31,7 @@ function generatePassword() {
     return;
   }
 
-  if (window.confirm('Would you like an uppercase in the password?')) {
+  if (window.confirm('Would you like an UPPERCASE in the password?')) {
     pass += upperCase;
   }
 
@@ -43,7 +43,7 @@ function generatePassword() {
     pass += numberS;
   }
 
-  if (window.confirm('Would you like special characters in the password?')) {
+  if (window.confirm('Would you like special characters (\\*%$#) in the password?')) {
     pass += specialCharacters;
   }
 
