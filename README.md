@@ -14,12 +14,16 @@ This is a website that will generate a password for you.
 When you click Generate Password button it will ask how many characters you want in your password. Do you want to include uppercase, lowercase, numbers, and special characters. And it will generate password for you.
 
 This is the screenshot from the website.
-![GeneratePasswordScreenshot]()
+![GeneratePasswordScreenshot](/assets/images/GenerateScreenShot-01.png)
+![HowmanyCharacters](/assets/images/HowManyCharacters.png)
+![MustHavewindow](/assets/images/PasswordMustHave.png)
+![GeneratePassword](/assets/images/GeneratePassword.png)
+
 
 
 ## Credits
  
- Myself, Instructor, peers, and Xpert Learning.
+ Myself, Instructor, peers, and Xpert Learning Assistance.
 
 ## License
 
